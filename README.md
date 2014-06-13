@@ -1,4 +1,4 @@
 test-repo
 =========
 
-Just a test
+This is Just a test
